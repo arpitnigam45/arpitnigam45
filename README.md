@@ -63,6 +63,8 @@ I am always on the lookout for new projects to work on and new people to collabo
 <br />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnigam45&theme=react&langs_count=8">
+<br>
+<br>
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
