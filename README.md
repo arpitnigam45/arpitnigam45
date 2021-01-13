@@ -43,7 +43,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 <br />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnigam45&theme=react&langs_count=5">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
+<img align="centre" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 
 <br>
 <br>
@@ -51,6 +51,5 @@ I am always on the lookout for new projects to work on and new people to collabo
 <br />
 <br />
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arpitnigam45.Arpitnigam45)
 
 
