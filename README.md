@@ -39,12 +39,15 @@ I am always on the lookout for new projects to work on and new people to collabo
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=Arpitnigam45&show_icons=tru)
 <br />
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <br />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnigam45&theme=react&langs_count=5">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
+
 <br>
 <br>
-![picture](https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true)
+
 <br />
 <br />
 
