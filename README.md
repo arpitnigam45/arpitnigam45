@@ -23,8 +23,6 @@ githubUsername: 'ApurvShah007'
 <a href="https://https://leetcode.com/nigamarpit7000/">
   <img align="left" alt="Arpit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<!--
-<a href="https://medium.com/@apurvshah2604">
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
@@ -62,7 +60,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 <br />
 <br />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnigam45&theme=react&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnigam45&theme=react&langs_count=5">
 <br>
 <br>
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
