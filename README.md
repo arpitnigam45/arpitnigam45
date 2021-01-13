@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**arpitnigam45/arpitnigam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
-title: ApurvShah
-date: '2020-26-07'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic", "all-profile"]
-githubUsername: 'ApurvShah007'
----
-
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hi there 👋 I am [Arpit Nigam](https://arpitnigam45.github.io)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
