@@ -4,14 +4,17 @@
 <br>
 <br>
 <a href="https://www.linkedin.com/in/arpit-nigam-737951178/">
-  <img align="left" alt="Arpit's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Arpit Nigam | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/arpitnigam45/">
-  <img align="left" alt="Arpit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="Arpit Nigam | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 <a href="https://leetcode.com/nigamarpit7000/">
   <img align="left" alt="Arpit's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+  <a href="mailto:nigamarpit7000a@gmail.com">
+    <img align="left" alt="Arpit Nigam | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 <br />
 <br />
 
@@ -33,14 +36,15 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=Arpitnigam45&show_icons=tru)
+![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=Arpitnigam45&show_icons=tru)
 <br />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitnigam45&theme=react&langs_count=5">
 <br>
 <br>
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true)
 <br />
 <br />
 
