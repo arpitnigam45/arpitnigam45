@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Arpit Nigam](https://arpitnigam45.github.io)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arpitnigam45.Arpitnigam45)
 <br/>
 <a href="https://www.linkedin.com/in/arpit-nigam-737951178/">
   <img align="left" alt="Arpit's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,11 +13,7 @@
 </a>
 <br />
 <br />
--->
 
-<!--
-**ApurvShah007/ApurvShah007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <div>
  <p>
